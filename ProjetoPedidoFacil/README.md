@@ -64,4 +64,4 @@ O problema: Várias partes do sistema (registro de pedidos, fechamento de contas
 
 * Respeita o controle estrito de instâncias globais para dados críticos de caixa.
 * Evita concorrência e divergência nos valores financeiros computados.
-   **Atenção ao escopo global:** O uso excessivo de Singletons pode dificultar testes unitários isolados se o estado global não for limpo adequadamente entre os testes.
+* **Atenção ao escopo global:** O uso excessivo de Singletons pode dificultar testes unitários isolados se o estado global não for limpo adequadamente entre os testes.
