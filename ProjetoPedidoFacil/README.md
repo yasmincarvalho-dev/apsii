@@ -1,5 +1,10 @@
 # PedidoFácil — Padrão de Projeto Singleton & SOLID
 
+## Integrantes
+- Yasmin Carvalho 
+- Felipe Gabriel
+- Vitória Gabrielly
+
 ## 1. Explicação do projeto
 
 O **PedidoFácil** simula o sistema de gerenciamento de uma lanchonete, centralizando o fluxo financeiro, o controle de caixa, o cadastro de produtos e o registro de pedidos de forma segura e consistente. O projeto foi estruturado em equipe para demonstrar boas práticas de Orientação a Objetos em Java.
